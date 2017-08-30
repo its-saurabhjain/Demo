@@ -8,6 +8,7 @@ namespace DemoApp
 {
     class Program
     {
+        //comments
         static void Main(string[] args)
         {
             Console.WriteLine("This is initial program");
