@@ -11,6 +11,7 @@ namespace DemoApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is initial program");
+            Console.WriteLine("This is New Feature program");
         }
     }
 }
